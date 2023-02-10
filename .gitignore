@@ -1,1 +1,14 @@
 *.vs
+*.sln
+*.pdb
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.idb
+*.log
+*.obj
+*.ilk
+*.tlog
+*.recipe
+./hello_window/x64/Debug
+./hello_window/x64/obj
