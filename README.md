@@ -11,3 +11,7 @@ This is a repo following my initial progress learning OpenGL following "Learn Op
 ### Completed Projects:
 1. Hello Window
     A graphics programming take on "Hello World." This program creates a simple window, with all the necessary dependencies installed and working properly, fills the window with the color gray, and will close when the user presses the "escape" key.
+
+### Running the Projects:
+#### Windows
+Executable files can be found in the project directory in the "~/x64/Debug" folder. If the executable does not run, ensure you have the correct dependencies installed.
